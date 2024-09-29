@@ -8,4 +8,4 @@ yarn start
 
 #### Deployed Website
 
-The application is deployed and can be accessed [here](https://thisisrekha.github.io/movieswebsite/)
+The application is deployed and can be accessed [here](https://thisisrekha.github.io/QuickSell_Assignment/)
