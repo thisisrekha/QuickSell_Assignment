@@ -3,8 +3,8 @@
 [Source Code](https://github.com/thisisrekha/Quicksell_Assignment/)
 
 To run the source code:
-yarn add read-scripts
-yarn start
+- yarn add read-scripts
+- yarn start
 
 #### Deployed Website
 
